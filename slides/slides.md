@@ -180,12 +180,14 @@ God keeps him occupied with joy in his heart.
 There is an evil that I have seen under the sun,<br>
 and it lies heavy on mankind: <br>
 [2](# "ref")
-a man to whom God gives wealth, possessions, and honor,<br>
+a man to whom God gives wealth,<br>
+possessions, and honor,<br>
 so that he lacks nothing of all that he desires,
 
 <div class="zh">
 [1](# "ref")
-我 見 日 光 之 下 有 一 宗 禍 患 重 壓 在 人 身 上 ，<br>
+我 見 日 光 之 下 <br>
+有 一 宗 禍 患 重 壓 在 人 身 上 ，<br>
 
 [2](# "ref")
 就 是 人 蒙 神 賜 他 資 財 、 豐 富 、 尊 榮 ， <br>
