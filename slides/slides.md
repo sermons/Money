@@ -211,7 +211,7 @@ This is vanity; it is a grievous evil.
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> id="outline" class="outline" -->
 ## Money [(Ecc5)](# "ref")
-1.
-2.
-3.
+1. Riches **Lost** [(5:13-17)](# "ref")
+1. Riches **Unused** [(6:1-2)](# "ref")
+1. A Life **Enriched** [(5:18-20)](# "ref")
 
