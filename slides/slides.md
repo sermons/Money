@@ -25,20 +25,28 @@ He who loves money will not be satisfied with money, <br>
 nor he who loves wealth with his income; <br>
 this also is vanity.
 
+<div class="zh">
+[10](# "ref")
+貪 愛 銀 子 的 ， 不 因 得 銀 子 知 足 ； <br>
+貪 愛 豐 富 的 ， 也 不 因 得 利 益 知 足 。 <br>
+這 也 是 虛 空 。<br>
+</div>
+
+[Ecclesiastes 傳道書 5:10 (ESV/CUV) (p.1/11)](# "ref")
+
+---
 [11](# "ref")
 When goods increase, they increase who eat them, <br>
 and what advantage has their owner <br>
 but to see them with his eyes?
 
 <div class="zh">
-[10](# "ref")
-貪 愛 銀 子 的 ， 不 因 得 銀 子 知 足 ； <br>
-貪 愛 豐 富 的 ， 也 不 因 得 利 益 知 足 。 <br>
-這 也 是 虛 空 。<br>
 [11](# "ref")
 貨 物 增 添 ， 吃 的 人 也 增 添 ， <br>
 物 主 得 甚 麼 益 處 呢 ？ 不 過 眼 看 而 已 ！
 </div>
+
+[Ecclesiastes 傳道書 5:11 (ESV/CUV) (p.2/11)](# "ref")
 
 ---
 [12](# "ref")
@@ -53,6 +61,8 @@ will not let him sleep.
 睡 得 香 甜 ； <br>
 富 足 人 的 豐 滿 卻 不 容 他 睡 覺 。
 </div>
+
+[Ecclesiastes 傳道書 5:12 (ESV/CUV) (p.3/11)](# "ref")
 
 ---
 [13](# "ref")
@@ -75,6 +85,8 @@ but he has nothing in his hand.
 那 人 若 生 了 兒 子 ， 手 裡 也 一 無 所 有 。
 </div>
 
+[Ecclesiastes 傳道書 5:13-14 (ESV/CUV) (p.4/11)](# "ref")
+
 ---
 [15](# "ref")
 As he came from his mother's womb <br>
@@ -89,6 +101,8 @@ that he may carry away in his hand.
 他 所 勞 碌 得 來 的 ， <br>
 手 中 分 毫 不 能 帶 去 。
 </div>
+
+[Ecclesiastes 傳道書 5:15 (ESV/CUV) (p.5/11)](# "ref")
 
 ---
 [16](# "ref")
@@ -111,6 +125,8 @@ in much vexation and sickness and anger.
 多 有 煩 惱 ， 又 有 病 患 嘔 氣 。
 </div>
 
+[Ecclesiastes 傳道書 5:16-17 (ESV/CUV) (p.6/11)](# "ref")
+
 ---
 [18](# "ref")
 Behold, what I have seen to be good and fitting <br>
@@ -127,6 +143,8 @@ for this is his lot.
 因 為 這 是 他 的 分 。
 </div>
 
+[Ecclesiastes 傳道書 5:18 (ESV/CUV) (p.7/11)](# "ref")
+
 ---
 [19](# "ref")
 Everyone also to whom God has given <br>
@@ -141,6 +159,8 @@ and to accept his lot and rejoice in his toil<br>
 這 乃 是 神 的 恩 賜 。
 </div>
 
+[Ecclesiastes 傳道書 5:19 (ESV/CUV) (p.8/11)](# "ref")
+
 ---
 [20](# "ref")
 For he will not much remember <br>
@@ -153,16 +173,15 @@ God keeps him occupied with joy in his heart.
 因 為 神 應 他 的 心 使 他 喜 樂 。
 </div>
 
+[Ecclesiastes 傳道書 5:20 (ESV/CUV) (p.9/11)](# "ref")
+
 ---
 [1](# "ref")
 There is an evil that I have seen under the sun,<br>
 and it lies heavy on mankind: <br>
 [2](# "ref")
 a man to whom God gives wealth, possessions, and honor,<br>
-so that he lacks nothing of all that he desires,<br>
-yet God does not give him power to enjoy them,<br>
-but a stranger enjoys them.<br>
-This is vanity; it is a grievous evil.
+so that he lacks nothing of all that he desires,
 
 <div class="zh">
 [1](# "ref")
@@ -170,10 +189,22 @@ This is vanity; it is a grievous evil.
 
 [2](# "ref")
 就 是 人 蒙 神 賜 他 資 財 、 豐 富 、 尊 榮 ， <br>
-以 致 他 心 裡 所 願 的 一 樣 都 不 缺 ， <br>
+以 致 他 心 裡 所 願 的 一 樣 都 不 缺 ，
+</div>
+
+[Ecclesiastes 傳道書 6:1-2 (ESV/CUV) (p.10/11)](# "ref")
+
+---
+yet God does not give him power to enjoy them,<br>
+but a stranger enjoys them.<br>
+This is vanity; it is a grievous evil.
+
+<div class="zh">
 只 是 神 使 他 不 能 吃 用 ， 反 有 外 人 來 吃 用 。 <br>
 這 是 虛 空 ， 也 是 禍 患 。
 </div>
+
+[Ecclesiastes 傳道書 6:2 (ESV/CUV) (p.11/11)](# "ref")
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> id="outline" class="outline" -->
